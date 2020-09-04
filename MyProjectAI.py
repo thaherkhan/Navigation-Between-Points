@@ -18,11 +18,8 @@ window.title("Nevigation Between Two Points")
 window.geometry("400x300")
 
 
-    
-
 def close():
     window.destroy()    
-
 
 
  # Design Maps
